@@ -1,0 +1,1095 @@
+Climatic_zone,Vegetation_type,Sample_size,MAP,Soil_MAT,LAI,Mean_pH,CUEst
+Arid,Grasslands,3,356,9.374999762,0.603,8.77,0.348
+Arid,Grasslands,3,356,9.374999762,0.603,8.853,0.395
+Arid,Grasslands,3,356,9.374999762,0.603,8.907,0.362
+Arid,Grasslands,3,356,9.374999762,0.603,8.847,0.304
+Arid,Grasslands,3,356,9.374999762,0.603,8.59,0.282
+Cold,Grasslands,27,491,11.5250001,1.362,8.333,0.524
+Cold,Grasslands,27,491,11.5250001,1.362,8.389,0.472
+Cold,Grasslands,27,491,11.5250001,1.362,8.321,0.425
+Cold,Grasslands,27,491,11.5250001,1.362,8.36,0.373
+Cold,Grasslands,27,491,11.5250001,1.362,8.453,0.419
+Cold,Grasslands,27,491,11.5250001,1.362,8.271,0.418
+Arid,Grasslands,3,428,10.47999992,0.933,8.677,0.376
+Arid,Grasslands,3,431,11.05000003,0.874,8.86,0.469
+Cold,Grasslands,3,424,9.549999952,0.733,8.803,0.381
+Arid,Grasslands,3,408,9.660000038,0.736,8.503,0.299
+Cold,Grasslands,3,484,10.82499981,0.959,8.593,0.267
+Cold,Grasslands,3,552,11.5250001,1.311,8.621,0.366
+Cold,Grasslands,3,516,10.6500001,1.363,8.61,0.374
+Cold,Grasslands,3,485,11.1,1.094,8.66,0.364
+Cold,Grasslands,3,534,11.74999976,1.41,8.347,0.289
+Cold,Grasslands,3,529,10.96000004,1.41,8.34,0.353
+Cold,Grasslands,3,517,11.78000011,1.379,8.55,0.369
+Cold,Grasslands,3,615,14.39999986,1.107,8.412,0.336
+Arid,Grasslands,3,628,16.11666711,1.589,8.13,0.321
+Cold,Grasslands,3,560,11.57499981,1.727,8.353,0.409
+Cold,Grasslands,3,603,14.97500014,1.446,8.553,0.456
+Cold,Mixed forest,3,644,14.07500005,2.548,8.313,0.295
+Cold,Mixed forest,3,789,13.32500005,3.146,6.353,0.517
+Cold,Mixed forest,3,791,13.2249999,3.146,6.837,0.522
+Cold,Mixed forest,3,955,10.87499976,3.925,6.127,0.527
+Temperate,Mixed forest,3,1004,14.79999995,3.68,6.503,0.514
+Cold,Mixed forest,18,514,8.660000038,2.924,8.113,0.244
+Cold,Mixed forest,18,514,8.740000153,2.924,8.083,0.345
+Cold,Mixed forest,18,514,9.875,2.924,8.254,0.413
+Cold,Mixed forest,18,514,9.325000048,2.924,8.297,0.239
+Cold,Mixed forest,18,514,9.600000143,2.924,8.209,0.241
+Cold,Mixed forest,18,514,9.280000114,2.924,8.059,0.269
+Cold,Mixed forest,15,703,12.27499986,3.943,8.081,0.203
+Cold,Mixed forest,12,703,12.27499986,3.943,8.184,0.185
+Cold,Mixed forest,9,703,12.27499986,3.943,8.086,0.216
+Cold,Mixed forest,9,703,12.27499986,3.943,8.107,0.188
+Cold,Mixed forest,9,703,12.27499986,3.943,8.103,0.174
+Cold,Mixed forest,9,703,12.27499986,3.943,7.958,0.165
+Cold,Mixed forest,18,703,12.27499986,3.943,8.104,0.224
+Cold,Grasslands,6,491,11.30000019,1.362,8.63,0.421
+Cold,Grasslands,6,491,11.30000019,1.362,8.61,0.395
+Cold,Grasslands,6,491,11.30000019,1.362,8.57,0.36
+Cold,Grasslands,6,491,11.30000019,1.362,8.55,0.37
+Cold,Grasslands,6,491,11.30000019,1.362,8.51,0.384
+Cold,Grasslands,6,491,11.30000019,1.362,8.58,0.41
+Temperate,Woody savannas,3,1186,12.14999986,2.776,4.14,0.226
+Temperate,Woody savannas,3,1186,12.14999986,2.776,4.11,0.152
+Tropical,Evergreen Broadleaf forest,5,2431,24.125,5.692,4.6,0.366
+Tropical,Evergreen Broadleaf forest,5,2431,23.75,5.692,3.8,0.218
+Tropical,Evergreen Broadleaf forest,5,3094,19.95000029,5.451,3.8,0.191
+Tropical,Grasslands,5,1654,17.5,1.457,4,0.267
+Tropical,Grasslands,5,1654,16.45000005,1.457,3.9,0.145
+Tropical,Grasslands,5,1654,15.86000004,1.457,3.9,0.225
+Tropical,Grasslands,5,1654,15.5,1.457,4,0.081
+Temperate,Grasslands,5,1654,13.2249999,1.457,3.9,0.175
+Temperate,Grasslands,5,553,11.02499986,1.457,3.9,0.147
+Temperate,Grasslands,5,566,9.949999809,1.457,3.8,0.141
+Arid,Grasslands,5,553,9.674999952,1.457,4.1,0.361
+Temperate,Grasslands,5,566,9.174999833,1.457,4.1,0.176
+Temperate,Grasslands,5,566,7.499999881,1.457,4,0.15
+Cold,Grasslands,5,333,9.300000191,1.134,8.47,0.425
+Cold,Grasslands,5,431,-0.425000004,0.864,8.448,0.521
+Cold,Grasslands,5,431,-0.425000004,0.864,8.694,0.588
+Cold,Grasslands,5,431,-0.425000004,0.864,8.702,0.59
+Cold,Grasslands,5,431,-0.425000004,0.864,8.818,0.589
+Cold,Grasslands,3,485,10.89999986,1.094,8.33,0.371
+Cold,Grasslands,3,485,10.65999985,1.094,8.27,0.364
+Cold,Grasslands,3,485,10.89999986,1.094,8.17,0.356
+Cold,Grasslands,3,485,10.89999986,1.094,7.99,0.352
+Cold,Grasslands,3,485,11.14999986,1.094,8.3,0.354
+Cold,Grasslands,3,485,10.79999981,1.094,8.25,0.36
+Cold,Grasslands,3,485,10.89999986,1.094,8.1,0.373
+Cold,Grasslands,3,485,11.03999996,1.094,7.72,0.379
+Temperate,Mixed forest,3,1288,11.92499995,3.312,6.567,0.412
+Temperate,Woody savannas,9,1513,18.85000038,2.545,7.237,0.388
+Temperate,Woody savannas,9,1276,16.22500014,2.792,6.15,0.449
+Temperate,Woody savannas,3,1563,20.6500001,2.349,6.117,0.394
+Temperate,Woody savannas,9,1441,20.37499952,3.259,7.042,0.345
+Temperate,Woody savannas,9,1487,17.14999962,2.267,7.112,0.389
+Temperate,Woody savannas,9,1434,22.10000038,2.175,7.353,0.386
+Temperate,Woody savannas,29,1368,15.72499967,2.632,5.917,0.353
+Temperate,Woody savannas,29,1385,19.0999999,2.896,6.63,0.29
+Arid,Grasslands,3,139,12.9,0.767,8.537,0.488
+Arid,Grasslands,3,146,12.77999992,0.254,8.753,0.417
+Arid,Grasslands,3,135,12.71999989,0.522,8.177,0.463
+Arid,Grasslands,3,296,5.4,0.767,7.993,0.572
+Arid,Grasslands,3,232,12.41999989,1.431,7.743,0.466
+Arid,Grasslands,3,305,4.516666651,0.729,8.247,0.436
+Arid,Grasslands,3,342,3.600000095,0.729,8.027,0.532
+Arid,Grasslands,3,326,2.939999986,0.767,5.957,0.467
+Arid,Grasslands,3,158,12.11999989,0.752,5.01,0.43
+Arid,Grasslands,3,267,1.875,1.08,7.717,0.533
+Cold,Grasslands,3,309,-0.250000007,1.762,7.63,0.474
+Cold,Grasslands,3,355,3.180000019,2.274,7.08,0.361
+Cold,Grasslands,3,309,4.016666651,1.041,7.45,0.384
+Cold,Grasslands,3,347,3.480000019,1.804,6.73,0.414
+Cold,Grasslands,3,428,3.333333333,1.78,6.15,0.421
+Arid,Grasslands,3,237,4.5,0.873,7.96,0.5
+Arid,Grasslands,3,322,4.76666673,1.456,8.153,0.418
+Cold,Grasslands,3,409,4.875000119,1.102,7.033,0.423
+Cold,Grasslands,3,392,4.199999809,1.29,7.39,0.339
+Arid,Grasslands,3,330,5.340000153,0.95,7.79,0.39
+Arid,Grasslands,3,354,8.540000153,0.71,8.7,0.361
+Arid,Grasslands,3,367,7.725000024,0.7,8.2,0.342
+Arid,Grasslands,3,209,3.679999971,0.64,8.41,0.543
+Arid,Grasslands,3,215,5.28333346,0.601,7.713,0.517
+Arid,Grasslands,3,225,6.800000095,0.49,8.29,0.516
+Arid,Grasslands,3,222,5.880000114,0.776,7.98,0.445
+Arid,Grasslands,3,262,6.659999847,0.707,7.763,0.484
+Arid,Grasslands,3,300,9.650000095,0.386,8.867,0.493
+Cold,Mixed forest,6,1173,8.825000048,4.779,4.822,0.272
+Cold,Mixed forest,6,1242,7.049999952,4.533,4.927,0.399
+Cold,Mixed forest,6,869,5.537500024,3.41,4.398,0.448
+Arid,Open shrublands,9,279,22.07500029,0.993,8.633,0.338
+Arid,Open shrublands,9,264,24.20000029,0.993,8.633,0.397
+Tropical,Evergreen Broadleaf forest,3,737,8.039999962,2.741,5.067,0.277
+Tropical,Evergreen Broadleaf forest,3,988,17.69999981,3.035,5.211,0.192
+Cold,Mixed forest,4,1201,6.674999952,4.26,6.905,0.361
+Temperate,Mixed forest,4,988,15.92500019,1.993,8.3,0.439
+Temperate,Mixed forest,4,988,15.92500019,1.993,8.2,0.343
+Temperate,Mixed forest,4,988,15.92500019,1.993,8.27,0.446
+Cold,Grasslands,4,374,3.24000001,1.913,6.53,0.498
+Temperate,Evergreen Broadleaf forest,3,836,14.92499995,1.756,4.85,0.227
+Temperate,Evergreen Broadleaf forest,3,836,14.92499995,1.756,5.18,0.211
+Temperate,Mixed forest,6,1521,18.50000048,3.16,4.8,0.294
+Temperate,Mixed forest,6,1521,18.50000048,3.16,4.72,0.268
+Temperate,Mixed forest,6,1521,18.50000048,3.16,4.77,0.242
+Temperate,Mixed forest,3,1803,23.05000019,2.629,4.62,0.377
+Temperate,Woody savannas,3,1810,20.10000038,2.183,5.47,0.464
+Temperate,Mixed forest,3,1287,17.67499971,3.456,5.01,0.426
+Temperate,Mixed forest,3,1422,16.05000043,3.068,5.3,0.407
+Temperate,Mixed forest,3,1279,15.90000033,1.982,4.66,0.334
+Temperate,Mixed forest,3,1052,14,3.52,5.94,0.396
+Temperate,Mixed forest,3,858,15.04999995,3.11,5.63,0.412
+Temperate,Mixed forest,3,1359,17.94999981,3.593,4.31,0.348
+Temperate,Mixed forest,3,1359,17.94999981,3.593,3.89,0.313
+Temperate,Mixed forest,3,1359,17.94999981,3.593,4.09,0.337
+Temperate,Mixed forest,3,1359,17.94999981,3.593,4.04,0.288
+Temperate,Mixed forest,3,1359,17.94999981,3.593,4.17,0.334
+Cold,Grasslands,6,746,1.525000006,1.32,9.01,0.379
+Cold,Grasslands,6,746,1.525000006,1.32,8.39,0.29
+Cold,Grasslands,6,746,1.525000006,1.32,8.83,0.327
+Cold,Grasslands,6,746,1.525000006,1.32,8.66,0.252
+Cold,Grasslands,6,746,1.525000006,1.32,8.98,0.19
+Cold,Grasslands,6,746,1.525000006,1.32,6.96,0.297
+Cold,Grasslands,6,746,1.525000006,1.32,6.35,0.279
+Cold,Grasslands,6,746,1.525000006,1.32,6.14,0.336
+Cold,Grasslands,3,658,3,3.226,7.94,0.193
+Cold,Grasslands,3,665,3.099999905,3.336,6.24,0.275
+Cold,Grasslands,3,683,3.199999988,3.276,6.97,0.122
+Cold,Mixed forest,20,550,5.524999976,3.263,6.88,0.185
+Cold,Grasslands,3,491,11.45000005,1.362,8.79,0.313
+Temperate,Grasslands,4,918,24.46666654,1.094,7.54,0.485
+Temperate,Grasslands,4,918,26.73333359,0.864,7.72,0.567
+Temperate,Grasslands,4,918,17.40000025,0.474,7.82,0.571
+Cold,Grasslands,15,434,8.149999976,0.799,7.73,0.291
+Cold,Grasslands,15,434,8.149999976,0.799,7.21,0.31
+Cold,Grasslands,15,434,8.149999976,0.799,7.02,0.37
+Cold,Grasslands,15,434,8.149999976,0.799,6.54,0.364
+Cold,Grasslands,15,434,8.149999976,0.799,6.17,0.344
+Cold,Grasslands,15,434,8.149999976,0.799,6.03,0.324
+Cold,Grasslands,6,483,0.600000016,2.983,7.137,0.522
+Cold,Grasslands,3,485,11.3499999,1.094,8.51,0.464
+Cold,Grasslands,3,485,10.94999981,1.094,8.27,0.477
+Cold,Grasslands,3,485,11.2249999,1.094,8.19,0.438
+Cold,Grasslands,3,485,10.62499976,1.094,8.07,0.414
+Temperate,Mixed forest,3,1701,15.67500019,3.669,4.5,0.264
+Temperate,Mixed forest,3,1701,15.67500019,3.669,4.8,0.244
+Temperate,Evergreen Broadleaf forest,10,2539,4.625,1.153,5.1,0.383
+Temperate,Evergreen Broadleaf forest,10,2539,5.066666603,1.153,5.2,0.363
+Temperate,Evergreen Broadleaf forest,10,2539,4.625,1.153,4.6,0.202
+Temperate,Evergreen Broadleaf forest,5,2539,4.974999905,1.153,5.1,0.292
+Cold,Mixed forest,4,559,8.325000167,1.957,6.02,0.116
+Cold,Mixed forest,4,559,8.325000167,1.957,6.1,0.119
+Cold,Grasslands,15,769,2.719999957,1.592,5.63,0.236
+Cold,Grasslands,15,769,2.719999957,1.592,5.7,0.218
+Cold,Grasslands,15,769,2.719999957,1.592,4.78,0.23
+Cold,Grasslands,15,769,2.719999957,1.592,4.86,0.33
+Arid,Mixed forest,3,530,14.125,1.319,8.21,0.485
+Arid,Mixed forest,3,530,14.125,1.319,8.25,0.361
+Arid,Mixed forest,3,530,14.125,1.319,8.28,0.357
+Arid,Grasslands,3,530,14.125,1.319,8.36,0.352
+Arid,Grasslands,3,530,14.125,1.319,8.09,0.336
+Cold,Mixed forest,3,846,5.475000024,3.268,5.4,0.309
+Cold,Mixed forest,3,846,5.475000024,3.268,6.1,0.278
+Cold,Mixed forest,3,846,5.475000024,3.268,6.1,0.294
+Cold,Mixed forest,3,846,5.475000024,3.268,6.1,0.3
+Cold,Mixed forest,3,846,5.475000024,3.268,5.8,0.281
+Cold,Mixed forest,3,846,5.475000024,3.268,6.1,0.284
+Cold,Mixed forest,3,846,5.475000024,3.268,6.1,0.336
+Cold,Mixed forest,3,846,5.475000024,3.268,6.1,0.285
+Cold,Grasslands,5,607,5.225000024,2.842,4.67,0.256
+Cold,Grasslands,5,586,7.425000072,2.79,5.63,0.292
+Cold,Grasslands,5,605,10.7750001,2.477,5.4,0.316
+Temperate,Evergreen Broadleaf forest,3,1868,23.82499981,2.184,4.268,0.364
+Temperate,Evergreen Broadleaf forest,3,1868,23.82499981,2.741,3.969,0.319
+Cold,Mixed forest,3,467,0.699999998,3.794,6.673,0.44
+Cold,Mixed forest,3,628,3.080000019,3.795,5.59,0.297
+Cold,Mixed forest,3,714,3.619999981,4.25,5.263,0.393
+Cold,Grasslands,3,449,3.899999976,3.764,6.183,0.413
+Cold,Mixed forest,3,497,11.83999996,3.2,6.41,0.421
+Cold,Mixed forest,3,729,5.274999976,3.755,6.1,0.373
+Temperate,Mixed forest,3,1434,16.8499999,3.04,4.46,0.384
+Temperate,Mixed forest,3,1757,15.49999976,3.767,4.93,0.403
+Tropical,Evergreen Broadleaf forest,3,1186,25.0999999,4.083,4.877,0.412
+Temperate,Woody savannas,5,1329,20.77499962,2.929,4.58,0.177
+Temperate,Woody savannas,5,1329,20.77499962,2.929,4.37,0.179
+Temperate,Woody savannas,5,1329,20.77499962,2.929,4.5,0.142
+Cold,Grasslands,3,485,10.89999986,1.094,8.17,0.497
+Cold,Grasslands,3,485,10.89999986,1.094,7.93,0.487
+Cold,Grasslands,3,530,10.96000004,0.874,8.1,0.495
+Cold,Grasslands,5,409,2.25,2.292,6.66,0.431
+Cold,Grasslands,5,409,2.25,2.292,6.9,0.409
+Temperate,Open shrublands,3,979,14.5,3.719,4.92,0.163
+Cold,Grasslands,4,513,12.17499995,1.473,8.65,0.326
+Cold,Grasslands,3,392,4.599999905,1.454,6.13,0.416
+Cold,Grasslands,3,392,4.599999905,1.454,6.55,0.458
+Cold,Grasslands,3,392,4.599999905,1.454,6.58,0.506
+Temperate,Mixed forest,3,841,21,2.82,7.115,0.25
+Temperate,Mixed forest,3,841,21,2.82,6.635,0.205
+Temperate,Mixed forest,3,841,21,2.82,5.75,0.196
+Temperate,Mixed forest,3,841,21,2.82,4.915,0.206
+Temperate,Mixed forest,3,841,21,2.82,5.065,0.181
+Cold,Grasslands,3,806,1.875000024,1.046,7.1,0.182
+Cold,Grasslands,3,806,1.875000024,1.046,7.3,0.242
+Cold,Grasslands,3,806,1.875000024,1.046,6.1,0.269
+Cold,Grasslands,3,806,1.875000024,1.046,4.7,0.207
+Cold,Grasslands,3,806,1.875000024,1.046,5.4,0.299
+Cold,Grasslands,3,777,2.600000024,2.269,7.13,0.233
+Cold,Grasslands,3,777,2.600000024,2.269,5.97,0.278
+Cold,Grasslands,3,777,2.600000024,2.269,5.4,0.202
+Cold,Grasslands,3,777,2.600000024,2.269,5.13,0.121
+Cold,Grasslands,3,777,2.600000024,2.269,4.73,0.083
+Cold,Cropland/Natural vegetation mosaic,72,1218,4.649999976,4.292,3.94,0.402
+Cold,Mixed forest,3,777,8.999999762,4.202,7.42,0.292
+Cold,Mixed forest,3,777,8.999999762,4.202,7.34,0.28
+Cold,Mixed forest,3,777,8.999999762,4.202,7.24,0.281
+Cold,Mixed forest,3,777,8.999999762,4.202,7.2,0.277
+Cold,Mixed forest,3,777,8.999999762,4.202,7.16,0.268
+Cold,Mixed forest,3,628,3.974999905,3.795,5.5,0.405
+Cold,Mixed forest,3,483,8.149999976,2.239,6.53,0.299
+Cold,Mixed forest,3,483,7.825000048,2.239,6.53,0.227
+Temperate,Mixed forest,3,1660,9.699999809,3.445,4.21,0.396
+Temperate,Mixed forest,3,1747,19.12500048,3.598,4.62,0.327
+Temperate,Evergreen Broadleaf forest,3,1542,17.82499981,3.405,4.36,0.283
+Cold,Mixed forest,4,527,0.319999999,3.863,6.79,0.518
+Cold,Mixed forest,4,644,2.916666667,3.818,6.17,0.366
+Cold,Mixed forest,4,686,4.900000016,4.25,6.37,0.416
+Cold,Mixed forest,4,482,5.119999981,2.239,6.87,0.331
+Cold,Mixed forest,4,571,5.680000019,3.263,6.85,0.353
+Cold,Mixed forest,4,1238,8.059999943,3.665,6.93,0.397
+Cold,Mixed forest,4,1219,7.100000024,4.772,4.34,0.247
+Cold,Grasslands,4,685,3.500000048,2.076,7.05,0.163
+Cold,Grasslands,4,685,3.500000048,2.076,7.04,0.183
+Cold,Grasslands,4,483,0.799999997,2.983,7.06,0.154
+Cold,Grasslands,4,483,0.799999997,2.983,7.06,0.163
+Arid,Savannas,3,599,26.57500029,0.919,7.3,0.198
+Arid,Savannas,3,599,26.57500029,0.919,6.9,0.241
+Arid,Savannas,3,599,26.57500029,0.919,7,0.213
+Arid,Savannas,3,599,26.57500029,0.919,6.7,0.262
+Arid,Cropland/Natural vegetation mosaic,8,1079,23.67500019,3.244,8,0.217
+Arid,Cropland/Natural vegetation mosaic,8,1079,23.67500019,3.244,7.7,0.128
+Arid,Cropland/Natural vegetation mosaic,8,1079,23.67500019,3.244,7.6,0.143
+Arid,Cropland/Natural vegetation mosaic,8,1079,23.67500019,3.244,7.8,0.213
+Tropical,Evergreen Broadleaf forest,3,2177,26.35000038,3.035,4.8,0.298
+Tropical,Evergreen Broadleaf forest,3,2177,26.63333384,3.035,4.8,0.249
+Tropical,Evergreen Broadleaf forest,3,2545,24.36666616,3.035,4.8,0.361
+Tropical,Evergreen Broadleaf forest,3,2392,24.9000001,2.741,4.8,0.357
+Tropical,Evergreen Broadleaf forest,3,2327,24.13333321,2.741,4.8,0.381
+Tropical,Evergreen Broadleaf forest,3,2285,24.82500029,2.741,4.8,0.319
+Tropical,Evergreen Broadleaf forest,3,2450,25.64999962,2.741,4.8,0.28
+Tropical,Evergreen Broadleaf forest,3,2177,26.63333384,3.125,3.63,0.197
+Tropical,Evergreen Broadleaf forest,3,2443,24.44999981,3.035,5.89,0.408
+Tropical,Evergreen Broadleaf forest,8,2767,24.17499971,3.42,3.8,0.252
+Tropical,Evergreen Broadleaf forest,3,2767,24.7750001,1.457,3.7,0.266
+Tropical,Evergreen Broadleaf forest,8,2767,24.33333333,3.599,3.9,0.209
+Tropical,Evergreen Broadleaf forest,3,2767,24.0250001,3.21,4,0.245
+Tropical,Evergreen Broadleaf forest,8,2767,24.06666629,1.457,4,0.276
+Tropical,Evergreen Broadleaf forest,10,3028,24.62500048,0.469,5.95,0.293
+Tropical,Evergreen Broadleaf forest,10,3028,24.62500048,0.469,5.745,0.335
+Tropical,Evergreen Broadleaf forest,10,3028,24.62500048,0.469,5.705,0.28
+Tropical,Evergreen Broadleaf forest,10,3028,24.62500048,0.469,6.165,0.304
+Cold,Mixed forest,11,693,5.433333397,4.528,4.33,0.279
+Temperate,Evergreen Broadleaf forest,5,999,13.8499999,3.387,3.7,0.34
+Temperate,Evergreen Broadleaf forest,6,999,13.36666679,3.387,4.4,0.288
+Temperate,Evergreen Broadleaf forest,6,999,12.92499995,3.387,3.9,0.286
+Tropical,Evergreen Broadleaf forest,8,3704,24.45000029,2.681,6.91,0.156
+Tropical,Evergreen Broadleaf forest,8,3704,24.45000029,2.681,6.955,0.123
+Tropical,Evergreen Broadleaf forest,8,3704,24.45000029,2.681,6.79,0.112
+Tropical,Evergreen Broadleaf forest,8,3704,24.45000029,2.681,7.34,0.175
+Tropical,Evergreen Broadleaf forest,10,3028,24.62500048,0.469,5.92,0.293
+Tropical,Evergreen Broadleaf forest,10,3028,24.62500048,0.469,5.945,0.335
+Tropical,Evergreen Broadleaf forest,10,3028,24.62500048,0.469,5.905,0.28
+Tropical,Evergreen Broadleaf forest,10,3028,24.62500048,0.469,6.44,0.304
+Arid,Open shrublands,6,240,15.63333321,0.919,7.5,0.372
+Arid,Open shrublands,6,240,15.63333321,2.924,7.3,0.191
+Arid,Open shrublands,6,240,15.63333321,3.263,7.9,0.147
+Temperate,Woody savannas,3,1228,16.3499999,2.943,4.7,0.336
+Temperate,Woody savannas,3,1228,16.3499999,2.943,4.2,0.364
+Temperate,Woody savannas,3,1228,16.3499999,2.943,4.4,0.347
+Temperate,Woody savannas,3,1228,16.3499999,2.943,3.6,0.476
+Arid,Open shrublands,10,250,16.17500019,0.616,7.7,0.457
+Cold,Grasslands,10,894,12.27499986,2.184,5.6,0.293
+Temperate,Grasslands,10,836,13.25,0.503,5.1,0.237
+Tropical,Evergreen Broadleaf forest,6,2182,24.32499933,4.332,6.02,0.333
+Tropical,Evergreen Broadleaf forest,6,2182,24.32499933,4.332,6.02,0.329
+Tropical,Evergreen Broadleaf forest,6,2182,24.32499933,4.332,6.02,0.347
+Arid,Barren or sparsely vegetated,5,52,9.139999962,1.08,8.262,0.494
+Arid,Barren or sparsely vegetated,5,48,11.77999992,0.864,8.46,0.51
+Arid,Barren or sparsely vegetated,5,46,12.26000004,0.993,8.658,0.55
+Arid,Barren or sparsely vegetated,5,36,13.48333327,0.767,7.95,0.575
+Arid,Barren or sparsely vegetated,5,75,7.619999886,0.386,7.806,0.551
+Arid,Barren or sparsely vegetated,5,64,11.07499981,0.767,7.724,0.588
+Arid,Barren or sparsely vegetated,5,78,9.2,0.386,7.902,0.51
+Arid,Barren or sparsely vegetated,5,97,10.58000011,0.767,7.852,0.555
+Arid,Barren or sparsely vegetated,5,88,11.45999985,0.993,8.3,0.548
+Arid,Barren or sparsely vegetated,5,79,11.375,0.874,7.958,0.491
+Arid,Barren or sparsely vegetated,5,50,11.26000004,0.864,7.986,0.595
+Arid,Barren or sparsely vegetated,5,37,11.39999962,0.993,7.94,0.59
+Arid,Barren or sparsely vegetated,5,36,11.41999989,0.386,7.93,0.538
+Arid,Barren or sparsely vegetated,5,44,9.925000191,1.362,8.108,0.495
+Arid,Barren or sparsely vegetated,5,53,11.19999981,0.767,7.93,0.589
+Arid,Barren or sparsely vegetated,5,58,12.08333365,0.864,8.55,0.578
+Arid,Barren or sparsely vegetated,5,91,8.51666673,0.993,8.584,0.564
+Arid,Barren or sparsely vegetated,5,88,9.580000305,0.864,8.678,0.572
+Arid,Barren or sparsely vegetated,5,109,9.419999886,0.864,8.734,0.526
+Arid,Barren or sparsely vegetated,5,131,8.439999962,0.864,8.562,0.52
+Arid,Grasslands,5,157,6.360000134,0.386,8.492,0.522
+Arid,Barren or sparsely vegetated,5,161,6.800000191,0.874,8.456,0.489
+Arid,Barren or sparsely vegetated,5,168,6.800000191,0.874,8.374,0.448
+Arid,Grasslands,5,178,7.383333445,1.134,8.368,0.487
+Arid,Grasslands,5,169,7.966666778,0.356,8.258,0.458
+Arid,Grasslands,5,160,7.75,0.236,8.34,0.493
+Arid,Grasslands,5,158,7.900000095,0.227,7.976,0.535
+Arid,Grasslands,5,161,7.579999924,1.094,8.408,0.453
+Arid,Grasslands,5,178,7.039999962,0.361,8.312,0.44
+Arid,Grasslands,5,212,6.460000038,0.474,8.142,0.5
+Arid,Grasslands,5,197,7.649999936,0.434,8.248,0.408
+Arid,Grasslands,5,215,5.566666603,0.601,7.662,0.357
+Arid,Grasslands,5,239,4.920000076,0.793,8.038,0.376
+Arid,Grasslands,5,262,5.039999962,0.989,7.522,0.356
+Cold,Grasslands,5,295,4.639999866,1.574,7.19,0.235
+Cold,Grasslands,5,301,4.5,1.76,7.648,0.332
+Cold,Grasslands,5,324,3.950000008,1.959,7.184,0.339
+Cold,Grasslands,5,358,3.766666651,2.036,7.028,0.323
+Cold,Grasslands,5,393,3.019999981,2.481,6.79,0.27
+Cold,Grasslands,5,399,3.919999933,2.783,6.732,0.371
+Cold,Grasslands,5,353,3.1,2.46,6.456,0.362
+Cold,Grasslands,5,280,4.019999981,1.25,6.706,0.289
+Arid,Grasslands,5,256,4.300000191,1.106,7.13,0.321
+Arid,Grasslands,5,235,4.179999924,1.195,7.176,0.328
+Arid,Grasslands,5,238,4.25,0.927,7.93,0.36
+Cold,Grasslands,5,270,3.416666667,1.567,6.684,0.307
+Cold,Grasslands,5,304,3.5,1.659,6.668,0.335
+Cold,Grasslands,5,321,3.25,2.036,6.712,0.329
+Cold,Grasslands,5,348,3.216666698,2.274,6.94,0.527
+Cold,Grasslands,5,395,2.34000001,2.757,6.746,0.272
+Cold,Grasslands,5,348,3.619999981,1.354,6.8,0.318
+Cold,Grasslands,5,388,3.566666603,2,6.354,0.366
+Temperate,Mixed forest,16,1122,17.4749999,3.443,4.57,0.339
+Temperate,Mixed forest,16,1122,17.4749999,3.443,4.44,0.351
+Arid,Grasslands,3,553,9.674999952,1.457,3.303,0.207
+Arid,Grasslands,3,553,9.674999952,1.457,3.537,0.156
+Arid,Grasslands,3,553,9.674999952,1.457,3.723,0.059
+Arid,Grasslands,3,553,9.674999952,1.457,3.56,0.155
+Tropical,Grasslands,3,1654,17.5,1.457,3.357,0.08
+Tropical,Grasslands,3,1654,17.5,1.457,3.735,0.122
+Tropical,Grasslands,3,1654,17.5,1.457,3.783,0.093
+Tropical,Grasslands,3,1654,17.5,1.457,3.587,0.215
+Tropical,Evergreen Broadleaf forest,3,3094,19.95000029,5.451,3.377,0.235
+Tropical,Evergreen Broadleaf forest,3,3094,19.95000029,5.451,3.693,0.197
+Tropical,Evergreen Broadleaf forest,3,3094,19.95000029,5.451,3.797,0.238
+Tropical,Evergreen Broadleaf forest,3,3094,19.95000029,5.451,4.72,0.453
+Tropical,Evergreen Broadleaf forest,3,2431,23.75,5.692,3.213,0.213
+Tropical,Evergreen Broadleaf forest,3,2431,23.75,5.692,3.45,0.291
+Tropical,Evergreen Broadleaf forest,3,2431,23.75,5.692,3.57,0.155
+Tropical,Evergreen Broadleaf forest,3,2431,23.75,5.692,3.487,0.283
+Tropical,Evergreen Broadleaf forest,5,4243,24.04999971,5.132,4,0.258
+Tropical,Evergreen Broadleaf forest,5,4243,24.04999971,5.132,3.9,0.171
+Tropical,Evergreen Broadleaf forest,5,4243,24.04999971,5.132,3.9,0.14
+Tropical,Evergreen Broadleaf forest,5,4243,24.04999971,5.132,4,0.146
+Tropical,Evergreen Broadleaf forest,5,4243,24.04999971,5.132,3.9,0.189
+Tropical,Evergreen Broadleaf forest,5,4243,24.04999971,5.132,3.9,0.154
+Tropical,Evergreen Broadleaf forest,5,4243,24.04999971,5.132,3.8,0.161
+Tropical,Evergreen Broadleaf forest,5,4243,24.04999971,5.132,4.1,0.102
+Tropical,Evergreen Broadleaf forest,5,4243,24.04999971,5.132,4.1,0.106
+Tropical,Evergreen Broadleaf forest,5,4243,24.04999971,5.132,4,0.134
+Cold,Mixed forest,3,628,1.483333349,3.636,5.333,0.19
+Cold,Mixed forest,3,653,0.433333334,4.052,4.97,0.179
+Cold,Mixed forest,3,653,-0.400000003,4.052,4.93,0.178
+Cold,Grasslands,3,374,3.24000001,2.943,6.113,0.277
+Cold,Grasslands,3,391,2.279999971,2.284,6.107,0.172
+Cold,Grasslands,3,438,3.24999994,3.764,5.761,0.255
+Cold,Grasslands,3,455,2.75999999,3.764,6.475,0.136
+Cold,Grasslands,3,455,2.683333317,3.764,6.467,0.134
+Cold,Mixed forest,3,749,3.379999971,4.075,5.963,0.131
+Cold,Mixed forest,3,751,3.94000001,3.793,6.048,0.121
+Cold,Mixed forest,3,969,0.275,3.42,4.95,0.131
+Cold,Mixed forest,3,969,-1.075000018,3.42,5.525,0.129
+Cold,Mixed forest,3,969,-1.075000018,3.42,5.6,0.133
+Cold,Mixed forest,3,529,3.049999952,3.466,5.607,0.156
+Cold,Mixed forest,3,529,3.1,3.466,4.51,0.154
+Arid,Open shrublands,3,224,6.074999928,0.399,7.658,0.12
+Arid,Open shrublands,3,224,4.683333317,0.399,7.341,0.117
+Cold,Mixed forest,3,477,5.225000024,3.125,6.556,0.129
+Cold,Mixed forest,3,477,5.180000019,3.125,6.318,0.136
+Cold,Mixed forest,3,477,4.524999976,3.125,4.337,0.104
+Cold,Mixed forest,3,477,4.580000019,3.125,4.765,0.142
+Cold,Grasslands,3,513,4.4,3.83,6.623,0.106
+Cold,Grasslands,3,513,3.733333309,3.83,6.358,0.108
+Cold,Grasslands,3,513,3.699999928,3.83,5.621,0.115
+Cold,Grasslands,3,513,3.499999952,3.83,6.042,0.104
+Cold,Mixed forest,3,710,13.97500014,3.755,6.726,0.147
+Cold,Mixed forest,3,737,7.350000143,3.628,6.387,0.142
+Cold,Mixed forest,3,737,8.025000095,3.628,6.594,0.14
+Cold,Mixed forest,3,737,5.625,3.628,6.091,0.117
+Cold,Mixed forest,3,737,4.924999952,3.628,6.199,0.209
+Cold,Mixed forest,3,720,3.649999917,3.628,5.719,0.132
+Cold,Mixed forest,3,726,5.400000016,4.899,5.938,0.128
+Cold,Mixed forest,3,726,5.099999905,4.899,5.944,0.12
+Cold,Mixed forest,3,726,8.140000057,4.899,5.979,0.132
+Cold,Mixed forest,3,826,0.999999985,4.202,3.7,0.129
+Cold,Mixed forest,3,826,1.5,4.202,4.23,0.191
+Cold,Mixed forest,3,826,2.359999967,4.202,4.25,0.194
+Cold,Mixed forest,3,777,3.949999988,4.202,5.1,0.129
+Cold,Mixed forest,3,777,4.240000105,4.202,4.25,0.116
+Cold,Mixed forest,3,777,5.575000048,4.202,5.02,0.115
+Cold,Mixed forest,3,777,6.724999905,4.202,5.73,0.151
+Cold,Mixed forest,3,774,8.674999952,3.896,6.32,0.16
+Cold,Mixed forest,3,791,7.225000024,3.956,5.521,0.076
+Cold,Mixed forest,3,791,7.880000019,3.956,5.187,0.073
+Cold,Mixed forest,3,792,10.92500019,3.956,5.661,0.109
+Temperate,Mixed forest,3,669,9.750000238,2.239,6.203,0.097
+Temperate,Mixed forest,3,669,10.00000019,2.239,5.627,0.078
+Cold,Mixed forest,3,1234,6.649999976,3.923,5.525,0.105
+Cold,Mixed forest,3,1179,7.550000072,4.036,6.116,0.128
+Cold,Mixed forest,3,1179,9.800000191,4.036,6.553,0.073
+Cold,Mixed forest,3,1220,7.975000024,3.923,6.308,0.143
+Cold,Mixed forest,3,1249,4.50000006,3.665,5.693,0.103
+Cold,Mixed forest,3,1249,8.450000127,3.665,5.837,0.087
+Cold,Mixed forest,3,1304,5.016666691,3.705,5.777,0.129
+Cold,Mixed forest,3,1346,3.050000012,3.665,5.136,0.128
+Cold,Mixed forest,3,1304,6.100000064,3.705,6.023,0.124
+Cold,Mixed forest,3,1281,8.424999952,3.665,6.22,0.092
+Cold,Mixed forest,3,1304,3.900000036,3.705,5.131,0.115
+Cold,Mixed forest,3,1346,2.300000012,3.665,4.693,0.089
+Cold,Mixed forest,3,1249,2.125,3.665,4.415,0.083
+Cold,Mixed forest,3,1492,6.774999976,3.653,4.273,0.107
+Cold,Mixed forest,3,1492,7.674999952,3.653,4.98,0.12
+Cold,Mixed forest,3,1503,12.57500029,3.653,5.387,0.182
+Cold,Mixed forest,3,1492,9.174999952,3.653,5.297,0.155
+Cold,Mixed forest,3,1503,14.10000014,3.653,3.973,0.133
+Temperate,Mixed forest,3,1318,15.53333314,3.662,4.262,0.139
+Cold,Mixed forest,3,1472,9.449999809,3.438,4.138,0.158
+Cold,Mixed forest,3,1472,13.20000005,3.438,4.588,0.285
+Temperate,Mixed forest,3,1472,15.47500014,3.438,4.59,0.326
+Temperate,Mixed forest,3,1589,8.125,3.477,4.155,0.124
+Temperate,Mixed forest,3,1589,7.449999928,3.477,3.831,0.094
+Temperate,Mixed forest,3,1677,10.05000007,3.477,3.926,0.114
+Temperate,Mixed forest,3,1677,12.38000011,3.477,3.945,0.104
+Temperate,Mixed forest,3,1288,6.575000048,3.21,4.74,0.107
+Temperate,Mixed forest,3,1222,9.700000286,3.21,4,0.139
+Temperate,Mixed forest,3,1222,9.700000286,3.21,4.37,0.152
+Temperate,Mixed forest,3,1689,21.67499971,2.776,4.338,0.132
+Temperate,Mixed forest,3,1689,21.92500019,1.457,4.209,0.152
+Temperate,Mixed forest,3,1689,21.5250001,3.035,4.324,0.139
+Temperate,Mixed forest,3,1782,18.96666718,2.629,4.05,0.103
+Temperate,Evergreen Broadleaf forest,3,2030,17.75,3.599,4.173,0.067
+Temperate,Evergreen Broadleaf forest,3,2030,17.52000008,3.599,4.123,0.101
+Temperate,Evergreen Broadleaf forest,3,2030,16.1500001,3.599,4.657,0.104
+Temperate,Evergreen Broadleaf forest,3,2030,14.89999986,3.599,4.788,0.117
+Temperate,Evergreen Broadleaf forest,3,2030,14.53333314,3.599,4.626,0.137
+Temperate,Evergreen Broadleaf forest,3,1667,14.67999992,3.731,3.23,0.097
+Cold,Grasslands,4,434,7.550000072,0.799,8.193,0.206
+Cold,Grasslands,4,434,7.350000024,0.799,8.15,0.208
+Cold,Grasslands,4,434,7.199999905,0.799,8.215,0.214
+Arid,Open shrublands,3,230,9.933333238,0.633,7.795,0.44
+Arid,Open shrublands,3,230,9.933333238,0.633,7.83,0.388
+Arid,Open shrublands,3,230,9.933333238,0.633,7.745,0.341
+Arid,Open shrublands,3,230,9.933333238,0.633,7.735,0.376
+Cold,Mixed forest,9,868,8.039999962,3.573,5.983,0.172
+Cold,Mixed forest,9,868,7.175000072,3.573,4.706,0.139
+Cold,Mixed forest,9,868,7.175000072,3.573,4.329,0.122
+Cold,Grasslands,9,827,7.050000072,2.186,4.154,0.166
+Cold,Grasslands,9,827,7.140000057,3.035,4.027,0.15
+Cold,Grasslands,9,827,4.75,3.035,3.997,0.179
+Cold,Grasslands,9,827,3.900000048,3.035,4.35,0.129
+Cold,Grasslands,9,827,3.900000048,3.035,4.638,0.11
+Cold,Grasslands,9,827,3.333333413,0.063,4.74,0.108
+Cold,Mixed forest,12,1363,1.175000004,3.992,4.7,0.537
+Cold,Mixed forest,12,1363,1.175000004,3.992,5.4,0.555
+Cold,Mixed forest,12,1363,1.175000004,3.992,5.5,0.502
+Cold,Mixed forest,12,1363,1.175000004,3.992,5.4,0.45
+Cold,Mixed forest,12,1363,1.175000004,3.992,4.7,0.303
+Cold,Mixed forest,6,527,5.783333222,1.646,3.6,0.543
+Cold,Mixed forest,6,642,3.933333357,3.646,3.5,0.537
+Cold,Mixed forest,4,849,5.079999924,4.685,5.9,0.194
+Cold,Mixed forest,9,1025,6.775000095,4.932,4.5,0.118
+Temperate,Evergreen Broadleaf forest,3,2030,17.30000019,2.186,5.45,0.251
+Temperate,Evergreen Broadleaf forest,3,1487,17.30000019,2.036,6.21,0.302
+Temperate,Evergreen Broadleaf forest,3,1563,17.30000019,3.035,5.61,0.362
+Temperate,Evergreen Broadleaf forest,3,1654,17.30000019,2.741,5.65,0.305
+Temperate,Evergreen Broadleaf forest,3,553,17.30000019,2.548,5.56,0.332
+Temperate,Evergreen Broadleaf forest,3,568,17.30000019,1.32,5.78,0.276
+Temperate,Evergreen Broadleaf forest,3,1747,17.30000019,2.741,5.32,0.353
+Temperate,Evergreen Broadleaf forest,3,568,17.30000019,0.228,5.69,0.332
+Temperate,Mixed forest,6,1442,12.82500005,2.579,4.07,0.384
+Temperate,Mixed forest,6,1442,12.82500005,2.579,5.33,0.381
+Temperate,Mixed forest,6,1442,12.82500005,2.579,4.5,0.384
+Temperate,Mixed forest,6,1442,12.82500005,2.579,5.33,0.174
+Temperate,Mixed forest,6,1442,12.82500005,2.579,4.5,0.239
+Arid,Grasslands,6,568,17.34999975,2.349,5.002,0.277
+Arid,Grasslands,6,568,17.34999975,3.41,4.895,0.218
+Arid,Grasslands,6,568,17.34999975,0.601,4.941,0.352
+Arid,Grasslands,6,568,17.34999975,2.792,4.951,0.334
+Arid,Grasslands,6,582,17.40000025,0.701,5.869,0.202
+Arid,Grasslands,6,582,17.40000025,0.701,5.974,0.388
+Arid,Grasslands,6,582,17.40000025,0.701,5.938,0.352
+Arid,Grasslands,6,582,17.40000025,0.701,6.526,0.391
+Arid,Grasslands,6,582,17.69999981,0.701,4.199,0.372
+Arid,Grasslands,6,582,17.69999981,0.701,4.788,0.315
+Arid,Grasslands,6,582,17.69999981,0.701,4.822,0.271
+Arid,Grasslands,6,582,17.69999981,0.701,4.396,0.326
+Temperate,Grasslands,6,765,16.07500005,0.635,4.217,0.359
+Temperate,Grasslands,6,765,16.07500005,0.635,3.968,0.335
+Temperate,Grasslands,6,765,16.07500005,0.635,4.026,0.191
+Temperate,Grasslands,6,765,16.07500005,0.635,4.272,0.306
+Arid,Grasslands,6,445,17.64999994,0.729,7.68,0.366
+Arid,Grasslands,6,445,17.64999994,0.49,7.738,0.29
+Arid,Grasslands,6,445,17.64999994,2.924,7.63,0.176
+Arid,Grasslands,6,445,17.64999994,0.993,7.912,0.375
+Arid,Grasslands,6,568,17.34999975,3.52,4.66,0.292
+Arid,Grasslands,6,568,17.34999975,2.579,4.706,0.23
+Arid,Grasslands,6,568,17.34999975,3.035,4.929,0.224
+Arid,Grasslands,6,568,17.34999975,2.036,4.774,0.258
+Arid,Grasslands,6,582,17.40000025,0.701,7.816,0.324
+Arid,Grasslands,6,582,17.40000025,0.701,7.425,0.306
+Arid,Grasslands,6,582,17.40000025,0.701,7.578,0.273
+Arid,Grasslands,6,582,17.40000025,0.701,7.942,0.352
+Arid,Grasslands,6,582,17.69999981,0.701,4.801,0.268
+Arid,Grasslands,6,582,17.69999981,0.701,4.234,0.283
+Arid,Grasslands,6,582,17.69999981,0.701,4.35,0.252
+Arid,Grasslands,6,582,17.69999981,0.701,4.632,0.386
+Temperate,Grasslands,6,765,16.07500005,0.635,3.969,0.436
+Temperate,Grasslands,6,765,16.07500005,0.635,4.051,0.303
+Temperate,Grasslands,6,765,16.07500005,0.635,4.132,0.248
+Temperate,Grasslands,6,765,16.07500005,0.635,4.626,0.227
+Arid,Grasslands,6,445,17.64999994,0.729,7.963,0.335
+Arid,Grasslands,6,445,17.64999994,0.767,7.844,0.376
+Arid,Grasslands,6,445,17.64999994,1.094,7.795,0.228
+Arid,Grasslands,6,445,17.64999994,0.993,7.912,0.39
+Cold,Evergreen Broadleaf forest,3,240,8.149999976,0.701,4.5,0.504
+Cold,Evergreen Broadleaf forest,3,568,8.740000153,3.2,3.9,0.517
+Cold,Evergreen Broadleaf forest,3,751,11.5250001,2.741,3.9,0.539
+Cold,Evergreen Broadleaf forest,3,529,15.04999995,3.387,3.8,0.542
+Cold,Evergreen Broadleaf forest,3,714,11.14999986,3.035,4,0.526
+Cold,Evergreen Broadleaf forest,3,566,6.575000048,0.603,4.4,0.486
+Cold,Grasslands,60,540,4.033333262,0.228,4.54,0.481
+Cold,Grasslands,60,540,4.033333262,0.228,3.82,0.497
+Cold,Grasslands,60,540,4.033333262,0.228,3.52,0.477
+Tropical,Evergreen Broadleaf forest,1,1703,24.96000023,2.502,5.83,0.425
+Tropical,Evergreen Broadleaf forest,1,1703,24.86666679,2.502,5.68,0.251
+Tropical,Evergreen Broadleaf forest,1,1703,24.86666679,2.502,5.68,0.196
+Tropical,Evergreen Broadleaf forest,1,1783,24.56666692,2.502,5.91,0.35
+Tropical,Evergreen Broadleaf forest,1,1783,24.55000019,2.502,6.07,0.299
+Tropical,Evergreen Broadleaf forest,1,1783,25.125,2.502,5.81,0.445
+Tropical,Evergreen Broadleaf forest,1,1702,24.46666654,2.502,5.73,0.204
+Tropical,Evergreen Broadleaf forest,1,1702,24.42499971,2.502,6.42,0.157
+Tropical,Evergreen Broadleaf forest,1,1702,24.54999971,2.502,5.77,0.093
+Tropical,Evergreen Broadleaf forest,1,1702,24.5,2.502,6.08,0.275
+Tropical,Evergreen Broadleaf forest,1,1702,24.5,2.502,6.08,0.139
+Tropical,Cropland/Natural vegetation mosaic,1,1823,26.43333308,3.558,6.46,0.361
+Tropical,Cropland/Natural vegetation mosaic,1,1823,26.57499981,3.558,6.55,0.386
+Tropical,Cropland/Natural vegetation mosaic,1,1823,26.72500038,3.558,6.22,0.211
+Tropical,Cropland/Natural vegetation mosaic,1,1823,26.73333359,3.558,5.35,0.353
+Tropical,Cropland/Natural vegetation mosaic,1,1823,26.7750001,3.558,5.36,0.437
+Tropical,Cropland/Natural vegetation mosaic,1,1823,26.7750001,3.558,6.36,0.291
+Tropical,Cropland/Natural vegetation mosaic,1,1823,26.7750001,3.558,6.36,0.167
+Tropical,Cropland/Natural vegetation mosaic,1,1823,26.9749999,3.558,5.33,0.349
+Tropical,Cropland/Natural vegetation mosaic,1,1823,26.9749999,3.558,6.33,0.187
+Tropical,Cropland/Natural vegetation mosaic,1,1823,26.9749999,3.558,5.33,0.371
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,4.528,3.342,0.322
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,4.052,3.342,0.22
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,5.692,3.342,0.16
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,3.035,3.342,0.156
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,0.063,3.342,0.178
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,3.035,3.342,0.183
+Tropical,Evergreen Broadleaf forest,1,2177,26.35000038,2.186,3.617,0.159
+Tropical,Evergreen Broadleaf forest,1,2177,26.35000038,2.776,3.617,0.147
+Tropical,Evergreen Broadleaf forest,1,2177,26.35000038,3.035,3.617,0.275
+Tropical,Evergreen Broadleaf forest,1,2177,26.35000038,4.052,3.617,0.19
+Tropical,Evergreen Broadleaf forest,1,2177,26.35000038,0.701,4.617,0.429
+Tropical,Evergreen Broadleaf forest,1,2177,26.35000038,3.035,3.617,0.133
+Tropical,Evergreen Broadleaf forest,1,2177,26.35000038,2.186,3.617,0.287
+Tropical,Evergreen Broadleaf forest,1,2177,26.35000038,3.956,3.617,0.243
+Tropical,Evergreen Broadleaf forest,1,2177,26.35000038,0.063,3.617,0.233
+Tropical,Evergreen Broadleaf forest,1,2327,24.42500019,2.741,6.917,0.202
+Tropical,Evergreen Broadleaf forest,1,2327,24.42500019,2.741,6.917,0.166
+Tropical,Evergreen Broadleaf forest,1,2327,24.42500019,2.741,6.917,0.156
+Tropical,Evergreen Broadleaf forest,1,2327,24.42500019,2.741,6.917,0.241
+Tropical,Evergreen Broadleaf forest,1,2327,24.42500019,2.741,6.917,0.152
+Tropical,Evergreen Broadleaf forest,1,2327,24.42500019,2.741,6.917,0.079
+Tropical,Evergreen Broadleaf forest,1,2327,24.42500019,2.741,6.917,0.194
+Tropical,Evergreen Broadleaf forest,1,2327,24.42500019,2.741,6.917,0.187
+Tropical,Evergreen Broadleaf forest,1,2327,24.42500019,2.741,6.917,0.116
+Tropical,Evergreen Broadleaf forest,1,2177,26.44000015,2.82,6.285,0.184
+Tropical,Evergreen Broadleaf forest,1,2177,26.44000015,3.558,6.285,0.248
+Tropical,Evergreen Broadleaf forest,1,2177,26.44000015,3.263,6.285,0.255
+Tropical,Evergreen Broadleaf forest,1,2177,26.44000015,3.558,6.285,0.248
+Tropical,Evergreen Broadleaf forest,1,2177,26.44000015,1.567,6.285,0.206
+Tropical,Evergreen Broadleaf forest,1,2177,26.44000015,0.635,6.285,0.136
+Tropical,Evergreen Broadleaf forest,1,2177,26.44000015,1.959,6.285,0.318
+Tropical,Evergreen Broadleaf forest,1,2177,26.44000015,3.035,6.285,0.172
+Tropical,Evergreen Broadleaf forest,1,2177,26.44000015,0.701,6.285,0.213
+Tropical,Evergreen Broadleaf forest,1,2392,25.60000038,2.741,4.365,0.293
+Tropical,Evergreen Broadleaf forest,1,2392,25.60000038,2.741,4.365,0.183
+Tropical,Evergreen Broadleaf forest,1,2392,25.60000038,2.741,4.365,0.292
+Tropical,Evergreen Broadleaf forest,1,2392,25.60000038,2.741,4.365,0.256
+Tropical,Evergreen Broadleaf forest,1,2392,25.60000038,2.741,4.365,0.175
+Tropical,Evergreen Broadleaf forest,1,2392,25.60000038,2.741,4.365,0.243
+Tropical,Evergreen Broadleaf forest,1,2392,25.60000038,2.741,4.365,0.209
+Tropical,Evergreen Broadleaf forest,1,2392,25.60000038,2.741,4.365,0.241
+Tropical,Evergreen Broadleaf forest,1,2392,25.60000038,2.741,4.365,0.267
+Tropical,Evergreen Broadleaf forest,1,2838,22.54999971,0.063,5.832,0.289
+Tropical,Evergreen Broadleaf forest,1,2838,22.54999971,0.063,5.832,0.352
+Tropical,Evergreen Broadleaf forest,1,2838,22.54999971,0.063,5.832,0.128
+Tropical,Evergreen Broadleaf forest,1,2838,22.54999971,0.063,5.832,0.164
+Tropical,Evergreen Broadleaf forest,1,2838,22.54999971,0.063,5.832,0.304
+Tropical,Evergreen Broadleaf forest,1,2838,22.54999971,0.063,5.832,0.218
+Tropical,Evergreen Broadleaf forest,1,2838,21.06666629,0.063,5.658,0.25
+Tropical,Evergreen Broadleaf forest,1,2838,21.06666629,0.063,5.658,0.362
+Tropical,Evergreen Broadleaf forest,1,2838,21.06666629,0.063,5.658,0.25
+Tropical,Evergreen Broadleaf forest,1,2838,21.06666629,0.063,5.658,0.367
+Tropical,Evergreen Broadleaf forest,1,2838,21.06666629,0.063,5.658,0.353
+Tropical,Evergreen Broadleaf forest,1,2838,21.06666629,0.063,5.658,0.248
+Tropical,Evergreen Broadleaf forest,1,2838,21.06666629,0.063,5.658,0.279
+Tropical,Evergreen Broadleaf forest,1,2838,21.06666629,0.063,5.658,0.293
+Tropical,Evergreen Broadleaf forest,1,2327,24.89999962,2.741,4.525,0.323
+Tropical,Evergreen Broadleaf forest,1,2327,24.89999962,2.741,4.525,0.311
+Tropical,Evergreen Broadleaf forest,1,2327,24.89999962,2.741,4.525,0.226
+Tropical,Evergreen Broadleaf forest,1,2327,24.89999962,2.741,4.525,0.242
+Tropical,Evergreen Broadleaf forest,1,2327,24.89999962,2.741,4.525,0.337
+Tropical,Evergreen Broadleaf forest,1,2327,24.89999962,2.741,4.525,0.252
+Tropical,Evergreen Broadleaf forest,1,2327,24.89999962,2.741,4.525,0.27
+Tropical,Evergreen Broadleaf forest,1,2327,24.89999962,2.741,4.525,0.331
+Tropical,Evergreen Broadleaf forest,1,2525,25.26666641,3.035,5.302,0.334
+Tropical,Evergreen Broadleaf forest,1,2525,25.26666641,3.035,5.302,0.31
+Tropical,Evergreen Broadleaf forest,1,2525,25.26666641,3.035,5.302,0.341
+Tropical,Evergreen Broadleaf forest,1,2525,25.26666641,3.035,5.302,0.27
+Tropical,Evergreen Broadleaf forest,1,2525,25.26666641,3.035,5.302,0.331
+Tropical,Evergreen Broadleaf forest,1,2525,25.26666641,3.035,5.302,0.303
+Tropical,Evergreen Broadleaf forest,1,2399,25.17999992,3.035,5.558,0.329
+Tropical,Evergreen Broadleaf forest,1,2399,25.17999992,3.035,5.558,0.33
+Tropical,Evergreen Broadleaf forest,1,2399,25.17999992,3.035,5.558,0.156
+Tropical,Evergreen Broadleaf forest,1,2399,25.17999992,3.035,5.558,0.197
+Tropical,Evergreen Broadleaf forest,1,2399,25.17999992,3.035,5.558,0.316
+Tropical,Evergreen Broadleaf forest,1,2399,25.17999992,3.035,5.558,0.347
+Tropical,Evergreen Broadleaf forest,1,2399,25.17999992,3.035,5.558,0.285
+Tropical,Evergreen Broadleaf forest,1,2416,25.30000019,3.035,5.362,0.285
+Tropical,Evergreen Broadleaf forest,1,2416,25.30000019,3.035,5.362,0.271
+Tropical,Evergreen Broadleaf forest,1,2416,25.30000019,3.035,5.362,0.298
+Tropical,Evergreen Broadleaf forest,1,2416,25.30000019,3.035,5.362,0.299
+Tropical,Evergreen Broadleaf forest,1,2416,25.30000019,3.035,5.362,0.331
+Tropical,Evergreen Broadleaf forest,1,2416,25.30000019,3.035,5.362,0.289
+Tropical,Evergreen Broadleaf forest,1,2416,25.30000019,3.035,5.362,0.268
+Tropical,Evergreen Broadleaf forest,1,2416,25.30000019,3.035,5.362,0.332
+Tropical,Evergreen Broadleaf forest,1,2416,25.30000019,3.035,5.362,0.352
+Tropical,Evergreen Broadleaf forest,1,2399,25.3499999,3.035,6.559,0.22
+Tropical,Evergreen Broadleaf forest,1,2399,25.3499999,3.035,6.559,0.168
+Tropical,Evergreen Broadleaf forest,1,2399,25.3499999,3.035,6.559,0.23
+Tropical,Evergreen Broadleaf forest,1,2399,25.3499999,3.035,6.559,0.131
+Tropical,Evergreen Broadleaf forest,1,2399,25.3499999,3.035,6.559,0.246
+Tropical,Evergreen Broadleaf forest,1,2399,25.3499999,3.035,6.559,0.212
+Tropical,Evergreen Broadleaf forest,1,2399,25.3499999,3.035,6.559,0.18
+Tropical,Evergreen Broadleaf forest,1,2399,25.3499999,3.035,6.559,0.152
+Tropical,Evergreen Broadleaf forest,1,2399,25.3499999,3.035,6.559,0.235
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,6.595,0.186
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,6.595,0.124
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,6.595,0.264
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,6.595,0.198
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,6.595,0.219
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,6.595,0.27
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,6.595,0.22
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,6.595,0.233
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,6.595,0.158
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,2.741,7.005,0.11
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,2.741,7.005,0.098
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,3.035,7.005,0.093
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,2.757,7.005,0.089
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,3.405,7.005,0.063
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,1.592,7.005,0.098
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,2.741,7.005,0.135
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,3.035,7.005,0.106
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,3.035,7.005,0.067
+Tropical,Evergreen Broadleaf forest,1,2424,24.33333333,2.186,6.166,0.084
+Tropical,Evergreen Broadleaf forest,1,2424,24.33333333,2.186,6.166,0.08
+Tropical,Evergreen Broadleaf forest,1,2424,24.33333333,2.186,6.166,0.136
+Tropical,Evergreen Broadleaf forest,1,2424,24.33333333,2.186,6.166,0.127
+Tropical,Evergreen Broadleaf forest,1,2424,24.33333333,2.186,6.166,0.14
+Tropical,Evergreen Broadleaf forest,1,2424,24.33333333,2.186,6.166,0.109
+Tropical,Evergreen Broadleaf forest,1,2424,24.33333333,2.186,6.166,0.168
+Tropical,Evergreen Broadleaf forest,1,2424,24.33333333,2.186,6.166,0.191
+Tropical,Evergreen Broadleaf forest,1,2424,24.33333333,2.186,6.166,0.182
+Tropical,Evergreen Broadleaf forest,1,2424,24.42499971,2.186,4.643,0.287
+Tropical,Evergreen Broadleaf forest,1,2424,24.42499971,2.186,4.643,0.333
+Tropical,Evergreen Broadleaf forest,1,2424,24.42499971,2.186,4.643,0.256
+Tropical,Evergreen Broadleaf forest,1,2424,24.42499971,2.186,4.643,0.241
+Tropical,Evergreen Broadleaf forest,1,2424,24.42499971,2.186,4.643,0.336
+Tropical,Evergreen Broadleaf forest,1,2424,24.42499971,2.186,4.643,0.325
+Tropical,Evergreen Broadleaf forest,1,2540,24.1500001,3.035,6.375,0.15
+Tropical,Evergreen Broadleaf forest,1,2540,24.1500001,3.035,6.375,0.182
+Tropical,Evergreen Broadleaf forest,1,2540,24.1500001,3.035,6.375,0.169
+Tropical,Evergreen Broadleaf forest,1,2540,24.1500001,3.035,6.375,0.171
+Tropical,Evergreen Broadleaf forest,1,2540,24.1500001,3.035,6.375,0.118
+Tropical,Evergreen Broadleaf forest,1,2540,24.1500001,3.035,6.375,0.249
+Tropical,Evergreen Broadleaf forest,1,2540,24.1500001,3.035,6.375,0.224
+Tropical,Evergreen Broadleaf forest,1,2540,24.1500001,3.035,6.375,0.225
+Tropical,Evergreen Broadleaf forest,1,2540,24.1500001,3.035,6.375,0.215
+Tropical,Evergreen Broadleaf forest,1,2540,23.9749999,3.035,5.838,0.276
+Tropical,Evergreen Broadleaf forest,1,2540,23.9749999,3.035,5.838,0.23
+Tropical,Evergreen Broadleaf forest,1,2540,23.9749999,3.035,5.838,0.215
+Tropical,Evergreen Broadleaf forest,1,2540,23.9749999,3.035,5.838,0.2
+Tropical,Evergreen Broadleaf forest,1,2540,23.9749999,3.035,5.838,0.104
+Tropical,Evergreen Broadleaf forest,1,2540,23.9749999,3.035,5.838,0.204
+Tropical,Evergreen Broadleaf forest,1,2540,23.9749999,3.035,5.838,0.222
+Tropical,Evergreen Broadleaf forest,1,2540,23.9749999,3.035,5.838,0.16
+Tropical,Evergreen Broadleaf forest,1,2443,24.5,3.035,6.05,0.271
+Tropical,Evergreen Broadleaf forest,1,2443,24.5,3.035,6.05,0.296
+Tropical,Evergreen Broadleaf forest,1,2443,24.5,3.035,6.05,0.306
+Tropical,Evergreen Broadleaf forest,1,2443,24.5,3.035,6.05,0.206
+Tropical,Evergreen Broadleaf forest,1,2443,24.5,3.035,6.05,0.276
+Tropical,Evergreen Broadleaf forest,1,2443,24.5,3.035,6.05,0.157
+Tropical,Evergreen Broadleaf forest,1,2443,24.5,3.035,6.05,0.312
+Tropical,Evergreen Broadleaf forest,1,2443,24.5,3.035,6.05,0.251
+Tropical,Evergreen Broadleaf forest,1,2443,24.5,3.035,6.05,0.184
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.358,0.321
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.358,0.357
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.358,0.305
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.358,0.351
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.358,0.321
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.358,0.287
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.358,0.31
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.358,0.288
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.223,0.293
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.223,0.301
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.223,0.33
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.223,0.248
+Tropical,Evergreen Broadleaf forest,1,2443,24.55000019,3.035,4.223,0.298
+Tropical,Evergreen Broadleaf forest,1,2443,24.10000038,3.035,4.355,0.291
+Tropical,Evergreen Broadleaf forest,1,2443,24.10000038,3.035,4.355,0.308
+Tropical,Evergreen Broadleaf forest,1,2443,24.10000038,3.035,4.355,0.347
+Tropical,Evergreen Broadleaf forest,1,2443,24.10000038,3.035,4.355,0.327
+Tropical,Evergreen Broadleaf forest,1,2443,24.125,3.035,4.942,0.359
+Tropical,Evergreen Broadleaf forest,1,2443,24.125,3.035,4.942,0.215
+Tropical,Evergreen Broadleaf forest,1,2443,24.125,3.035,4.942,0.29
+Tropical,Evergreen Broadleaf forest,1,2443,24.125,3.035,4.942,0.232
+Tropical,Evergreen Broadleaf forest,1,2399,24.375,3.035,6.338,0.214
+Tropical,Evergreen Broadleaf forest,1,2399,24.375,3.035,6.338,0.124
+Tropical,Evergreen Broadleaf forest,1,2399,24.375,3.035,6.338,0.171
+Tropical,Evergreen Broadleaf forest,1,2399,24.375,3.035,6.338,0.247
+Tropical,Evergreen Broadleaf forest,1,2399,24.375,3.035,6.338,0.142
+Tropical,Evergreen Broadleaf forest,1,2399,24.375,3.035,6.338,0.193
+Tropical,Evergreen Broadleaf forest,1,2399,24.375,3.035,6.338,0.132
+Tropical,Evergreen Broadleaf forest,1,2399,24.375,3.035,6.338,0.181
+Tropical,Evergreen Broadleaf forest,1,2399,24.375,3.035,6.338,0.124
+Tropical,Evergreen Broadleaf forest,1,2399,24.33333333,3.035,6.05,0.344
+Tropical,Evergreen Broadleaf forest,1,2399,24.33333333,3.035,6.05,0.295
+Tropical,Evergreen Broadleaf forest,1,2399,24.33333333,3.035,6.05,0.239
+Tropical,Evergreen Broadleaf forest,1,2399,24.33333333,3.035,6.05,0.205
+Tropical,Evergreen Broadleaf forest,1,2399,24.33333333,3.035,6.05,0.197
+Tropical,Evergreen Broadleaf forest,1,2399,24.33333333,3.035,6.05,0.339
+Tropical,Evergreen Broadleaf forest,1,2399,24.33333333,3.035,6.05,0.192
+Tropical,Evergreen Broadleaf forest,1,2399,24.33333333,3.035,6.05,0.234
+Tropical,Evergreen Broadleaf forest,1,2399,24.33333333,3.035,6.05,0.155
+Tropical,Evergreen Broadleaf forest,1,2399,25.53333346,3.035,5.386,0.243
+Tropical,Evergreen Broadleaf forest,1,2399,25.53333346,3.035,5.386,0.195
+Tropical,Evergreen Broadleaf forest,1,2399,25.53333346,3.035,5.386,0.247
+Tropical,Evergreen Broadleaf forest,1,2399,25.53333346,3.035,5.386,0.254
+Tropical,Evergreen Broadleaf forest,1,2399,25.53333346,3.035,5.386,0.3
+Tropical,Evergreen Broadleaf forest,1,2399,25.53333346,3.035,5.386,0.309
+Tropical,Evergreen Broadleaf forest,1,2399,25.53333346,3.035,5.386,0.314
+Tropical,Evergreen Broadleaf forest,1,2399,25.53333346,3.035,5.386,0.217
+Tropical,Evergreen Broadleaf forest,1,2399,25.53333346,3.035,5.386,0.264
+Tropical,Evergreen Broadleaf forest,1,2399,25.05999985,3.035,6.388,0.181
+Tropical,Evergreen Broadleaf forest,1,2399,25.05999985,3.035,6.388,0.283
+Tropical,Evergreen Broadleaf forest,1,2399,25.05999985,3.035,6.388,0.199
+Tropical,Evergreen Broadleaf forest,1,2399,25.05999985,3.035,6.388,0.194
+Tropical,Evergreen Broadleaf forest,1,2399,25.05999985,3.035,6.388,0.248
+Tropical,Evergreen Broadleaf forest,1,2399,25.05999985,3.035,6.388,0.246
+Tropical,Evergreen Broadleaf forest,1,2399,25.05999985,3.035,6.388,0.242
+Tropical,Evergreen Broadleaf forest,1,2399,25.05999985,3.035,6.388,0.122
+Tropical,Evergreen Broadleaf forest,1,2399,24.1500001,3.035,5.948,0.121
+Tropical,Evergreen Broadleaf forest,1,2399,24.1500001,3.035,5.948,0.177
+Tropical,Evergreen Broadleaf forest,1,2399,24.1500001,3.035,5.948,0.236
+Tropical,Evergreen Broadleaf forest,1,2399,24.1500001,3.035,5.948,0.172
+Tropical,Evergreen Broadleaf forest,1,2399,24.1500001,3.035,5.948,0.134
+Tropical,Evergreen Broadleaf forest,1,2399,24.1500001,3.035,5.948,0.177
+Tropical,Evergreen Broadleaf forest,1,2399,24.1500001,3.035,5.948,0.237
+Tropical,Evergreen Broadleaf forest,1,2399,24.1500001,3.035,5.948,0.129
+Tropical,Evergreen Broadleaf forest,1,2399,24.1500001,3.035,5.948,0.2
+Tropical,Evergreen Broadleaf forest,1,2443,24.44999981,3.035,5.365,0.213
+Tropical,Evergreen Broadleaf forest,1,2443,24.44999981,3.035,5.365,0.242
+Tropical,Evergreen Broadleaf forest,1,2443,24.44999981,3.035,5.365,0.198
+Tropical,Evergreen Broadleaf forest,1,2443,24.44999981,3.035,5.365,0.242
+Tropical,Evergreen Broadleaf forest,1,2443,24.44999981,3.035,5.365,0.283
+Tropical,Evergreen Broadleaf forest,1,2443,24.44999981,3.035,5.365,0.239
+Tropical,Evergreen Broadleaf forest,1,2443,24.44999981,3.035,5.365,0.271
+Tropical,Evergreen Broadleaf forest,1,2443,24.44999981,3.035,5.365,0.105
+Tropical,Evergreen Broadleaf forest,1,2443,24.44999981,3.035,5.365,0.294
+Tropical,Evergreen Broadleaf forest,1,2443,24.0250001,3.035,5.971,0.314
+Tropical,Evergreen Broadleaf forest,1,2443,24.0250001,3.035,5.971,0.3
+Tropical,Evergreen Broadleaf forest,1,2443,24.0250001,3.035,5.971,0.35
+Tropical,Evergreen Broadleaf forest,1,2443,24.0250001,3.035,5.971,0.338
+Tropical,Evergreen Broadleaf forest,1,2443,24.0250001,3.035,5.971,0.343
+Tropical,Evergreen Broadleaf forest,1,2443,24.0250001,3.035,5.971,0.286
+Tropical,Evergreen Broadleaf forest,1,2443,24.17499971,3.035,6.299,0.359
+Tropical,Evergreen Broadleaf forest,1,2443,24.17499971,3.035,6.299,0.307
+Tropical,Evergreen Broadleaf forest,1,2443,24.17499971,3.035,6.299,0.279
+Tropical,Evergreen Broadleaf forest,1,2443,24.17499971,3.035,6.299,0.342
+Tropical,Evergreen Broadleaf forest,1,2443,24.17499971,3.035,6.299,0.245
+Tropical,Evergreen Broadleaf forest,1,2443,24.17499971,3.035,6.299,0.303
+Tropical,Evergreen Broadleaf forest,1,2443,24.17499971,3.035,6.299,0.287
+Tropical,Evergreen Broadleaf forest,1,2443,24.17499971,3.035,6.299,0.273
+Tropical,Evergreen Broadleaf forest,1,2443,24.17499971,3.035,6.299,0.337
+Tropical,Evergreen Broadleaf forest,1,2399,24.4000001,3.035,6.132,0.355
+Tropical,Evergreen Broadleaf forest,1,2399,24.4000001,3.035,6.132,0.238
+Tropical,Evergreen Broadleaf forest,1,2399,24.4000001,3.035,6.132,0.218
+Tropical,Evergreen Broadleaf forest,1,2399,24.4000001,3.035,6.132,0.218
+Tropical,Evergreen Broadleaf forest,1,2399,24.4000001,3.035,6.132,0.15
+Tropical,Evergreen Broadleaf forest,1,2399,24.4000001,3.035,6.132,0.228
+Tropical,Evergreen Broadleaf forest,1,2399,24.4000001,3.035,6.132,0.234
+Tropical,Evergreen Broadleaf forest,1,2399,24.4000001,3.035,6.132,0.158
+Tropical,Evergreen Broadleaf forest,1,2399,24.4000001,3.035,6.132,0.196
+Tropical,Evergreen Broadleaf forest,1,2443,24.3499999,3.035,4.947,0.342
+Tropical,Evergreen Broadleaf forest,1,2443,24.3499999,3.035,4.947,0.339
+Tropical,Evergreen Broadleaf forest,1,2443,24.3499999,3.035,4.947,0.299
+Tropical,Evergreen Broadleaf forest,1,2443,24.3499999,3.035,4.947,0.351
+Tropical,Evergreen Broadleaf forest,1,2443,24.3499999,3.035,4.947,0.345
+Tropical,Evergreen Broadleaf forest,1,2443,24.3499999,3.035,4.947,0.316
+Tropical,Evergreen Broadleaf forest,1,2443,24.3499999,3.035,5.013,0.357
+Tropical,Evergreen Broadleaf forest,1,2443,24.3499999,3.035,5.013,0.344
+Tropical,Evergreen Broadleaf forest,1,2443,24.3499999,3.035,5.013,0.354
+Tropical,Evergreen Broadleaf forest,1,2443,24.3499999,3.035,5.013,0.346
+Tropical,Evergreen Broadleaf forest,1,2392,24.5,2.741,5.937,0.32
+Tropical,Evergreen Broadleaf forest,1,2392,24.5,2.741,5.937,0.223
+Tropical,Evergreen Broadleaf forest,1,2392,24.5,2.741,5.937,0.178
+Tropical,Evergreen Broadleaf forest,1,2392,24.5,2.741,5.937,0.29
+Tropical,Evergreen Broadleaf forest,1,2392,24.5,2.741,5.937,0.294
+Tropical,Evergreen Broadleaf forest,1,2392,24.5,2.741,5.937,0.184
+Tropical,Evergreen Broadleaf forest,1,2392,24.5,2.741,5.937,0.144
+Tropical,Evergreen Broadleaf forest,1,2392,24.5,2.741,5.937,0.17
+Tropical,Evergreen Broadleaf forest,1,2392,24.5,2.741,5.937,0.165
+Tropical,Evergreen Broadleaf forest,1,2392,24.19999981,2.741,6.239,0.185
+Tropical,Evergreen Broadleaf forest,1,2392,24.19999981,2.741,6.239,0.191
+Tropical,Evergreen Broadleaf forest,1,2392,24.19999981,2.741,6.239,0.164
+Tropical,Evergreen Broadleaf forest,1,2392,24.19999981,2.741,6.239,0.131
+Tropical,Evergreen Broadleaf forest,1,2392,24.19999981,2.741,6.239,0.175
+Tropical,Evergreen Broadleaf forest,1,2392,24.19999981,2.741,6.239,0.141
+Tropical,Evergreen Broadleaf forest,1,2392,24.19999981,2.741,6.239,0.151
+Tropical,Evergreen Broadleaf forest,1,2392,24.19999981,2.741,6.239,0.101
+Tropical,Evergreen Broadleaf forest,1,2392,24.19999981,2.741,6.239,0.152
+Tropical,Evergreen Broadleaf forest,1,2392,24.79999987,2.741,6.388,0.265
+Tropical,Evergreen Broadleaf forest,1,2392,24.79999987,2.741,6.388,0.221
+Tropical,Evergreen Broadleaf forest,1,2392,24.79999987,2.741,6.388,0.191
+Tropical,Evergreen Broadleaf forest,1,2392,24.79999987,2.741,6.388,0.242
+Tropical,Evergreen Broadleaf forest,1,2392,24.79999987,2.741,6.388,0.317
+Tropical,Evergreen Broadleaf forest,1,2392,24.79999987,2.741,6.388,0.278
+Tropical,Evergreen Broadleaf forest,1,2392,24.79999987,2.741,6.388,0.276
+Tropical,Evergreen Broadleaf forest,1,2392,24.79999987,2.741,6.388,0.267
+Tropical,Evergreen Broadleaf forest,1,2392,24.79999987,2.741,6.388,0.209
+Tropical,Evergreen Broadleaf forest,1,2392,24.9000001,2.741,6.361,0.203
+Tropical,Evergreen Broadleaf forest,1,2392,24.9000001,2.741,6.361,0.214
+Tropical,Evergreen Broadleaf forest,1,2392,24.9000001,2.741,6.361,0.184
+Tropical,Evergreen Broadleaf forest,1,2392,24.9000001,2.741,6.361,0.203
+Tropical,Evergreen Broadleaf forest,1,2392,24.9000001,2.741,6.361,0.22
+Tropical,Evergreen Broadleaf forest,1,2392,24.9000001,2.741,6.361,0.149
+Tropical,Evergreen Broadleaf forest,1,2392,24.9000001,2.741,6.361,0.194
+Tropical,Evergreen Broadleaf forest,1,2392,24.9000001,2.741,6.361,0.156
+Tropical,Evergreen Broadleaf forest,1,2392,24.9000001,2.741,6.361,0.247
+Tropical,Evergreen Broadleaf forest,1,2545,24.36666616,3.035,4.606,0.261
+Tropical,Evergreen Broadleaf forest,1,2545,24.36666616,3.035,4.606,0.156
+Tropical,Evergreen Broadleaf forest,1,2545,24.36666616,3.035,4.606,0.216
+Tropical,Evergreen Broadleaf forest,1,2545,24.36666616,3.035,4.606,0.253
+Tropical,Evergreen Broadleaf forest,1,2545,24.36666616,3.035,4.606,0.224
+Tropical,Evergreen Broadleaf forest,1,2545,24.36666616,3.035,4.606,0.171
+Tropical,Evergreen Broadleaf forest,1,2545,24.46666654,3.035,4.543,0.218
+Tropical,Evergreen Broadleaf forest,1,2545,24.46666654,3.035,4.543,0.269
+Tropical,Evergreen Broadleaf forest,1,2545,24.46666654,3.035,4.543,0.303
+Tropical,Evergreen Broadleaf forest,1,2545,24.46666654,3.035,4.543,0.29
+Tropical,Evergreen Broadleaf forest,1,2545,24.46666654,3.035,4.543,0.248
+Tropical,Evergreen Broadleaf forest,1,2327,24.13333321,2.741,5.811,0.164
+Tropical,Evergreen Broadleaf forest,1,2327,24.13333321,2.741,5.811,0.235
+Tropical,Evergreen Broadleaf forest,1,2327,24.13333321,2.741,5.811,0.146
+Tropical,Evergreen Broadleaf forest,1,2327,24.13333321,2.741,5.811,0.216
+Tropical,Evergreen Broadleaf forest,1,2327,24.13333321,2.741,5.811,0.251
+Tropical,Evergreen Broadleaf forest,1,2327,24.13333321,2.741,5.811,0.18
+Tropical,Evergreen Broadleaf forest,1,2327,24.13333321,2.741,5.811,0.32
+Tropical,Evergreen Broadleaf forest,1,2327,24.13333321,2.741,5.811,0.26
+Tropical,Evergreen Broadleaf forest,1,2327,24.13333321,2.741,5.811,0.239
+Tropical,Evergreen Broadleaf forest,1,2327,24.0999999,2.741,6.23,0.221
+Tropical,Evergreen Broadleaf forest,1,2327,24.0999999,2.741,6.23,0.239
+Tropical,Evergreen Broadleaf forest,1,2327,24.0999999,2.741,6.23,0.154
+Tropical,Evergreen Broadleaf forest,1,2327,24.0999999,2.741,6.23,0.149
+Tropical,Evergreen Broadleaf forest,1,2327,24.0999999,2.741,6.23,0.225
+Tropical,Evergreen Broadleaf forest,1,2327,24.0999999,2.741,6.23,0.212
+Tropical,Evergreen Broadleaf forest,1,2327,24.0999999,2.741,6.23,0.234
+Tropical,Evergreen Broadleaf forest,1,2327,24.0999999,2.741,6.23,0.249
+Tropical,Evergreen Broadleaf forest,1,2327,24.0999999,2.741,6.23,0.28
+Tropical,Evergreen Broadleaf forest,1,2856,23.54999971,2.186,5.746,0.311
+Tropical,Evergreen Broadleaf forest,1,2856,23.54999971,2.186,5.746,0.326
+Tropical,Evergreen Broadleaf forest,1,2856,23.54999971,2.186,5.746,0.271
+Tropical,Evergreen Broadleaf forest,1,2856,23.54999971,2.186,5.746,0.336
+Tropical,Evergreen Broadleaf forest,1,2856,23.54999971,2.186,5.746,0.293
+Tropical,Evergreen Broadleaf forest,1,2856,23.54999971,2.186,5.746,0.333
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.334
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.322
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.331
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.335
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.282
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.298
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.285
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.31
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.272
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.289
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.338
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.351
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.249
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.278
+Tropical,Evergreen Broadleaf forest,1,2399,24.2249999,3.035,5.865,0.32
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.215
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.253
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.201
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.231
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.247
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.223
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.334
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.231
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.239
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.327
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.229
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.258
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.258
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.267
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.22
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.216
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.237
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.265
+Tropical,Evergreen Broadleaf forest,1,2540,24.25,3.035,4.71,0.19
+Tropical,Evergreen Broadleaf forest,1,2540,24.2750001,3.035,5.78,0.225
+Tropical,Evergreen Broadleaf forest,1,2540,24.2750001,3.035,5.78,0.153
+Tropical,Evergreen Broadleaf forest,1,2540,24.2750001,3.035,5.78,0.168
+Tropical,Evergreen Broadleaf forest,1,2540,24.2750001,3.035,5.78,0.249
+Tropical,Evergreen Broadleaf forest,1,2540,24.2750001,3.035,5.78,0.204
+Tropical,Evergreen Broadleaf forest,1,2540,24,3.035,4.396,0.331
+Tropical,Evergreen Broadleaf forest,1,2540,24,3.035,4.396,0.26
+Tropical,Evergreen Broadleaf forest,1,2540,24,3.035,4.396,0.243
+Tropical,Evergreen Broadleaf forest,1,2540,24,3.035,4.396,0.326
+Tropical,Evergreen Broadleaf forest,1,2540,24,3.035,4.396,0.291
+Tropical,Evergreen Broadleaf forest,1,2693,21.7750001,0.063,5.022,0.36
+Tropical,Evergreen Broadleaf forest,1,2693,21.7750001,0.063,5.022,0.395
+Tropical,Evergreen Broadleaf forest,1,2693,21.7750001,0.063,5.022,0.281
+Tropical,Evergreen Broadleaf forest,1,2693,21.7750001,0.063,5.022,0.323
+Tropical,Evergreen Broadleaf forest,1,2327,26.2249999,2.741,6.636,0.157
+Tropical,Evergreen Broadleaf forest,1,2327,26.2249999,2.741,6.636,0.199
+Tropical,Evergreen Broadleaf forest,1,2327,26.2249999,2.741,6.636,0.163
+Tropical,Evergreen Broadleaf forest,1,2327,26.2249999,2.741,6.636,0.16
+Tropical,Evergreen Broadleaf forest,1,2327,26.2249999,2.741,6.636,0.141
+Tropical,Evergreen Broadleaf forest,1,2327,25.57500029,2.741,6.318,0.177
+Tropical,Evergreen Broadleaf forest,1,2327,25.57500029,2.741,6.318,0.128
+Tropical,Evergreen Broadleaf forest,1,2327,25.57500029,2.741,6.318,0.07
+Tropical,Evergreen Broadleaf forest,1,2327,25.57500029,2.741,6.318,0.323
+Tropical,Evergreen Broadleaf forest,1,2327,25.57500029,2.741,6.318,0.157
+Tropical,Evergreen Broadleaf forest,1,2450,25.75,2.741,4.236,0.26
+Tropical,Evergreen Broadleaf forest,1,2450,25.75,2.741,4.236,0.251
+Tropical,Evergreen Broadleaf forest,1,2450,25.75,2.741,4.236,0.33
+Tropical,Evergreen Broadleaf forest,1,2450,25.75,2.741,4.236,0.352
+Tropical,Evergreen Broadleaf forest,1,2450,25.75,2.741,4.236,0.222
+Tropical,Evergreen Broadleaf forest,1,2443,24.86666679,3.035,4.974,0.25
+Tropical,Evergreen Broadleaf forest,1,2443,24.86666679,3.035,4.974,0.268
+Tropical,Evergreen Broadleaf forest,1,2443,24.86666679,3.035,4.974,0.261
+Tropical,Evergreen Broadleaf forest,1,2443,24.86666679,3.035,4.974,0.248
+Tropical,Evergreen Broadleaf forest,1,2443,24.86666679,3.035,4.974,0.285
+Tropical,Evergreen Broadleaf forest,1,2443,25.07500029,3.035,6.038,0.191
+Tropical,Evergreen Broadleaf forest,1,2443,25.07500029,3.035,6.038,0.217
+Tropical,Evergreen Broadleaf forest,1,2443,25.07500029,3.035,6.038,0.246
+Tropical,Evergreen Broadleaf forest,1,2443,25.07500029,3.035,6.038,0.317
+Tropical,Evergreen Broadleaf forest,1,2443,25.07500029,3.035,6.038,0.237
+Tropical,Evergreen Broadleaf forest,1,2443,25.23333359,3.035,5.762,0.212
+Tropical,Evergreen Broadleaf forest,1,2443,25.23333359,3.035,5.762,0.285
+Tropical,Evergreen Broadleaf forest,1,2443,25.23333359,3.035,5.762,0.311
+Tropical,Evergreen Broadleaf forest,1,2443,25.23333359,3.035,5.762,0.251
+Tropical,Evergreen Broadleaf forest,1,2443,25.23333359,3.035,5.762,0.306
+Tropical,Evergreen Broadleaf forest,1,2327,24.43999977,2.741,6.294,0.207
+Tropical,Evergreen Broadleaf forest,1,2327,24.43999977,2.741,6.294,0.201
+Tropical,Evergreen Broadleaf forest,1,2327,24.43999977,2.741,6.294,0.22
+Tropical,Evergreen Broadleaf forest,1,2327,24.43999977,2.741,6.294,0.249
+Tropical,Evergreen Broadleaf forest,1,2327,24.43999977,2.741,6.294,0.216
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.167
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.289
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.281
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.3
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.348
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.35
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.331
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.33
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.308
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.242
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.22
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.331
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.249
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.201
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.237
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.277
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.342
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.287
+Tropical,Evergreen Broadleaf forest,1,2327,24.99999952,2.741,5.6,0.304
+Tropical,Evergreen Broadleaf forest,1,2327,23.96666654,2.741,6.404,0.344
+Tropical,Evergreen Broadleaf forest,1,2327,23.96666654,2.741,6.404,0.298
+Tropical,Evergreen Broadleaf forest,1,2327,23.96666654,2.741,6.404,0.224
+Tropical,Evergreen Broadleaf forest,1,2327,23.96666654,2.741,6.404,0.207
+Tropical,Evergreen Broadleaf forest,1,2327,23.96666654,2.741,6.404,0.19
+Tropical,Evergreen Broadleaf forest,1,2450,26.375,2.741,6.392,0.156
+Tropical,Evergreen Broadleaf forest,1,2450,26.375,2.741,6.392,0.215
+Tropical,Evergreen Broadleaf forest,1,2450,26.375,2.741,6.392,0.217
+Tropical,Evergreen Broadleaf forest,1,2450,26.375,2.741,6.392,0.137
+Tropical,Evergreen Broadleaf forest,1,2450,26.375,2.741,6.392,0.268
+Tropical,Evergreen Broadleaf forest,1,2424,24.39999962,2.186,4.646,0.302
+Tropical,Evergreen Broadleaf forest,1,2424,24.39999962,2.186,4.646,0.203
+Tropical,Evergreen Broadleaf forest,1,2424,24.39999962,2.186,4.646,0.275
+Tropical,Evergreen Broadleaf forest,1,2424,24.39999962,2.186,4.646,0.324
+Tropical,Evergreen Broadleaf forest,1,2424,24.39999962,2.186,4.646,0.357
+Tropical,Evergreen Broadleaf forest,1,2424,24.375,2.186,5.58,0.264
+Tropical,Evergreen Broadleaf forest,1,2424,24.375,2.186,5.58,0.215
+Tropical,Evergreen Broadleaf forest,1,2424,24.375,2.186,5.58,0.252
+Tropical,Evergreen Broadleaf forest,1,2424,24.375,2.186,5.58,0.251
+Tropical,Evergreen Broadleaf forest,1,2424,24.375,2.186,5.58,0.199
+Tropical,Evergreen Broadleaf forest,1,2382,25.92499971,2.186,5.33,0.255
+Tropical,Evergreen Broadleaf forest,1,2382,25.92499971,2.186,5.33,0.189
+Tropical,Evergreen Broadleaf forest,1,2382,25.92499971,2.186,5.33,0.315
+Tropical,Evergreen Broadleaf forest,1,2382,25.92499971,2.186,5.33,0.223
+Tropical,Evergreen Broadleaf forest,1,2382,25.92499971,2.186,5.33,0.21
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,7.114,0.164
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,7.114,0.215
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,7.114,0.15
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,7.114,0.172
+Tropical,Evergreen Broadleaf forest,1,2440,24.7750001,2.741,7.114,0.149
+Tropical,Evergreen Broadleaf forest,1,2440,24.66666667,2.741,7.332,0.206
+Tropical,Evergreen Broadleaf forest,1,2440,24.66666667,2.741,7.332,0.137
+Tropical,Evergreen Broadleaf forest,1,2440,24.66666667,2.741,7.332,0.151
+Tropical,Evergreen Broadleaf forest,1,2440,24.66666667,2.741,7.332,0.121
+Tropical,Evergreen Broadleaf forest,1,2440,24.66666667,2.741,7.332,0.268
+Tropical,Evergreen Broadleaf forest,1,2177,25.875,2.274,6.73,0.246
+Tropical,Evergreen Broadleaf forest,1,2177,25.875,3.035,6.73,0.12
+Tropical,Evergreen Broadleaf forest,1,2177,25.875,3.035,6.73,0.122
+Tropical,Evergreen Broadleaf forest,1,2177,25.875,0.701,6.73,0.238
+Tropical,Evergreen Broadleaf forest,1,2177,25.875,3.035,6.73,0.119
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,3.035,6.58,0.178
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,0.635,6.58,0.164
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,1.046,6.58,0.21
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,2.741,6.58,0.138
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,2,6.58,0.206
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,1.959,6.58,0.29
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,3.646,6.58,0.25
+Tropical,Evergreen Broadleaf forest,1,2177,26.17500019,1.804,6.58,0.288
+Tropical,Evergreen Broadleaf forest,1,2856,25.55000019,2.186,5.414,0.284
+Tropical,Evergreen Broadleaf forest,1,2856,25.55000019,2.186,5.414,0.283
+Tropical,Evergreen Broadleaf forest,1,2856,25.55000019,2.186,5.414,0.307
+Tropical,Evergreen Broadleaf forest,1,2856,25.55000019,2.186,5.414,0.301
+Tropical,Evergreen Broadleaf forest,1,2856,24.27499962,2.186,4.258,0.231
+Tropical,Evergreen Broadleaf forest,1,2856,24.27499962,2.186,4.258,0.271
+Tropical,Evergreen Broadleaf forest,1,2856,24.06666629,2.186,4.968,0.341
+Tropical,Evergreen Broadleaf forest,1,2856,23.54999971,2.186,5.718,0.269
+Tropical,Evergreen Broadleaf forest,1,2856,23.54999971,2.186,5.718,0.32
+Tropical,Evergreen Broadleaf forest,1,2856,23.54999971,2.186,5.718,0.269
+Tropical,Evergreen Broadleaf forest,1,2856,23.92500019,2.186,5.364,0.329
+Tropical,Evergreen Broadleaf forest,1,2856,23.92500019,2.186,5.364,0.32
+Tropical,Evergreen Broadleaf forest,1,2856,23.92500019,2.186,5.364,0.329
+Tropical,Evergreen Broadleaf forest,1,2856,23.9749999,2.186,5.176,0.357
+Tropical,Evergreen Broadleaf forest,1,2856,23.9749999,2.186,5.176,0.322
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,3.035,3.342,0.347
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,2.741,3.342,0.332
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,2.186,3.342,0.357
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,3.035,3.342,0.294
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,3.035,3.342,0.296
+Tropical,Evergreen Broadleaf forest,1,2177,26.63333384,2.186,3.342,0.303
+Tropical,Evergreen Broadleaf forest,1,2177,26.77499962,0.104,6.545,0.358
+Tropical,Evergreen Broadleaf forest,1,1079,26.77499962,0.104,6.545,0.242
+Tropical,Evergreen Broadleaf forest,1,1079,26.77499962,0.104,6.545,0.215
+Tropical,Evergreen Broadleaf forest,1,2177,26.77499962,0.104,6.545,0.344
